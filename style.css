@@ -1,0 +1,39 @@
+body{
+    font-family: arial;
+ 
+}
+
+#sticker{
+float: left;
+}
+
+#main{
+    margin-left: 50%;
+    max-width: 600px;
+}
+
+h1#title a{
+    color: black;
+}
+
+.c1{
+    color: red;
+}
+.c2{
+    color: blue;
+}
+.c3{
+    color: green;
+}
+.c4{
+    color: orange;
+}
+.c5{
+    color: purple;
+}
+.c6{
+    color: gray;
+}
+.warning{
+    color: red;
+}
